@@ -1,3 +1,7 @@
+
+[![Build Status](https://dev.azure.com/abuestanv/LabGit-Pipelines/_apis/build/status/abuestanv.ContosoAir?branchName=master)](https://dev.azure.com/abuestanv/LabGit-Pipelines/_build/latest?definitionId=4&branchName=master)
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
